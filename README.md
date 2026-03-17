@@ -1,6 +1,5 @@
 # ĐỖ TRỌNG TẤN
-## Fullstack Developer / Technical Lead
-
+## Fullstack Developer
 ---
 
 ### THÔNG TIN LIÊN HỆ
