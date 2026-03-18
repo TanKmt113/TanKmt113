@@ -10,7 +10,7 @@
 | **Email** | dotrongtan113@gmail.com |
 | **Địa điểm** | Hà Nội, Việt Nam |
 | **LinkedIn** | https://linkedin.com/in/dotrongtan113 |
-| **GitHub** | https://github.com/dotrongtan113 |
+| **Website** | [Link website](https://portfolio.tandotrong.online/) |
 
 ---
 
